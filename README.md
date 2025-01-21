@@ -1,5 +1,4 @@
-<em> # Conversor de Divisas </em>
-
+<h1 align="center"> Conversor de Divisas </h1>
 Aplicación desarrollada en Java la cual se ejecuta en consola. Permite hacer la conversión de varias divisas en dolares y viceversa.
 Las divisas que permite hacer conversión son: 
 Peso Colombiano.
