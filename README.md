@@ -18,3 +18,6 @@ Las divisas que permite hacer conversión son:
 ### Y su salida será el valor que corresponde dependiendo la divisa escogida.
 
 ![image](https://github.com/user-attachments/assets/09be437e-60f2-4f67-8767-fcfb3a17be0b)
+
+
+### Nota: Los valores de las divisas de los resultados son consumidas en tiempo real por medio de la API.
